@@ -1,0 +1,1 @@
+start AdvancedCMD.pyw
