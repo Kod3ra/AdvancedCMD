@@ -20,10 +20,7 @@ You can customize the interface colors, manage themes, and access additional set
 # Contributions
 Contributions to AdvancedCMD are welcome! If you find any issues or have suggestions for improvement, please create an issue on the repository (link here) or submit a pull request.
 
-# License
-AdvancedCMD is released under the MIT License.
-
 # Credits
-AdvancedCMD was created by Kod3ra and is inspired by the power and versatility of command-line interfaces.
+AdvancedCMD was created by Kod3ra#0475 and is inspired by the power and versatility of command-line interfaces.
 
 Enjoy your enhanced command-line experience with AdvancedCMD!
